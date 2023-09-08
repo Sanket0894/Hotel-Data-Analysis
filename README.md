@@ -5,5 +5,5 @@ They have different types of hotels such as :
 - AtliQ Exotica
 - AtliQ Bay
 - AtliQ Palace
-  
+
 Customers can book the hotel rooms by AtliQ Grands own website or by using third-party applictions/websites. That data will be stored in AtliQ grands booking database. From the database we have to perform data analysis,because AtliQ Grands is loosing their revenue, market share from their competitors so the management has decided to onboard data analytics team to business. 
